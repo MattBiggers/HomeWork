@@ -1,0 +1,20 @@
+﻿using System;
+
+namespace HelloWorld
+{
+    class MainClass
+    {
+        public static void Main(string[] args)
+        //The console writeline allows you start to print different characters
+        //The Read Line makes visual studios actually print the code
+        //All code must be in the public static void space. 
+        //You need to have semi colons after the code
+        //If you are doing a write line then you need to have a double quote.
+        //You need to have capitals
+
+        {
+            Console.WriteLine("Hello World!");
+            Console.ReadLine();
+        }
+    }
+}
